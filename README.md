@@ -10,7 +10,7 @@ Check some on my projects [OnixPro](https://github.com/mariojgt/onix-pro) a open
 
 - ⚡ Fun fact: I'm a fan of [Vue js](https://vuejs.org/) , [Laravel](https://laravel.com/) and [Unreal Engine](https://www.unrealengine.com/), [Sountrap](https://soundtrap.com/)
 
-- 💬 Ask me about my projects, my skills and my life.
+- 💬 Ask me about my projects, my skills.
 
 Check my [udemy courses](https://www.udemy.com/user/mario-jose-goes-tarosso/)
 
