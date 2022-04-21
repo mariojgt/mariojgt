@@ -1,4 +1,4 @@
-<img src="https://github.com/mariojgt/mariojgt/blob/master/mario_avatar.png" align="right">
+<img src="https://github.com/mariojgt/mariojgt/blob/main/mario_avatar.png" align="right">
 
 ### Hi there 👋
 I'm Mario Jose Goes Tarosso, a creative developer and content creator passionate about open source projects. I'm also a Game Developer you can check some of game my projects [Rpg Inventory](https://github.com/mariojgt/RpgInventory), [Rpg Map maker](https://github.com/mariojgt/UnrealRpgMapMaker)
