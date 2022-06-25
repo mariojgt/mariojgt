@@ -14,6 +14,8 @@ Check some on my projects [OnixPro](https://github.com/mariojgt/onix-pro) a open
 
 Check my [udemy courses](https://www.udemy.com/user/mario-jose-goes-tarosso/)
 
+![mariojgt GitHub stats](https://github-readme-stats.vercel.app/api?username=mariojgt&show_icons=true&theme=radical)
+
 <!--
 Here are some ideas to get you started:
 
