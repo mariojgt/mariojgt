@@ -1,5 +1,3 @@
-<img src="https://github.com/mariojgt/mariojgt/blob/main/mario_avatar.png" align="right">
-
 <h1 align="center">Hi 👋, I'm Mario Jose Goes Tarosso</h1>
 <h3 align="center">I am a creative developer and content creator passionate about open source projects, I'm also a Game Developer you can check some of game my projects [Rpg Inventory](https://github.com/mariojgt/RpgInventory), [Rpg Map maker](https://github.com/mariojgt/UnrealRpgMapMaker)</h3>
 
