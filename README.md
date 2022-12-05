@@ -6,7 +6,7 @@
 ### <div align="center">I'm mario tarosso, a web and game developer 👨‍💻</div>  
   
 
-- 🔭 I’m currently working on [just move in](https://justmovein.com/)  
+- 🔭 I’m currently working at [just move in](https://justmovein.com/)  
   
 
 - 🌱 I’m currently learning Unreal engine, Vue Js and unity testing.  
