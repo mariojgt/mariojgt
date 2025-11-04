@@ -1,60 +1,84 @@
 # 👋 Hi, I'm **Mario Tarosso**
 
-✨ **Engineering Leader & Full-Stack Developer** — passionate about building products, teams, and technology that scale.
+🎯 **Senior Engineering Leader | CTO-Level Full-Stack Architect | Product Innovator**
+
+I build **scalable platforms**, **high-performing engineering teams**, and **products that people love** — blending technology, creativity, and business strategy.
 
 ---
 
-## 🚀 About Me
+## 🧭 Leadership Philosophy
 
-- 🧠 **Architect & Innovator:** I design and lead full-stack systems built with Laravel, Vue.js, and AWS — from concept to production.
-- ⚙️ **Engineering Leadership:** Proven track record in modernizing legacy systems, improving developer experience, and scaling SaaS platforms.
-- 🧑‍💻 **Hands-on Technical Lead:** I still love to code. From backend APIs and CI/CD pipelines to advanced front-end UI architecture.
-- 🌍 **Open-Source Advocate:** Contributor and creator of multiple Laravel/Vue packages, tools, and productivity libraries.
-- 🧩 **Cross-disciplinary Creator:** Bridging technology, design, and business — building projects that blend code, creativity, and community.
+> “Great code scales systems. Great leadership scales people.”
 
----
-
-## 🛠️ Tech Stack & Tools
-
-**Languages:** PHP, JavaScript (Vue, Node, TypeScript), Python, C++  
-**Frameworks:** Laravel, Inertia, Nuxt 3, Express, AWS Lambda  
-**DevOps:** Docker, AWS (Elastic Beanstalk, S3, EC2), Forge, CI/CD  
-**Databases:** MySQL, Redis, Meilisearch  
-**Tools:** GitHub Actions, Bitbucket Pipelines, Traefik, Nginx  
-**Design:** TailwindCSS, DaisyUI, Figma  
+As a hands-on leader, I empower developers to deliver world-class software by combining **technical excellence**, **clear communication**, and **strategic vision**.  
+I thrive at the intersection of **engineering**, **design**, and **business outcomes**.
 
 ---
 
-## 🌟 Featured Projects
+## 🧠 Core Expertise
 
-- 🧩 **The Dev Realm** — An e-learning platform for game developers  
-  _Laravel + Vue.js + Tailwind + Vimeo integration_  
-  🔗 [thedevrealm.com](https://thedevrealm.com)
-
-- ⚔️ **RPG Rush** — Fantasy RPG trading card game (physical + digital)  
-  _Custom Unreal Engine integration with online features_  
-  🔗 [rpgrush.com](https://rpgrush.com)
-
-- 🧠 **Candle Analytics** — Lightweight privacy-first analytics platform  
-  _Laravel + Alpine.js + Realtime dashboard_
+| Category | Highlights |
+|-----------|-------------|
+| **Leadership & Strategy** | Engineering Management • Team Building • Technical Direction • Agile / Scrum • Product Alignment |
+| **Architecture & DevOps** | System Design • Scalable APIs • AWS (Elastic Beanstalk, S3, EC2) • Docker • CI/CD • Traefik |
+| **Software Engineering** | Laravel • Vue.js / Nuxt 3 • Node.js / Express • TypeScript • MySQL / Redis / Meilisearch |
+| **Security & Performance** | Patchstack • Cloud Infrastructure Hardening • Code Quality Automation • AI-powered Scanning |
+| **Creative & Product Thinking** | UX-driven Development • Game Systems • Data Visualization • Developer Experience (DX) |
 
 ---
 
-## 🧭 What Drives Me
+## 🚀 Selected Achievements
 
-> "Building systems that empower people to create, learn, and grow."
-
-I believe in leading by example — mentoring developers, shipping quality code, and fostering innovation in every team I join.
+- 🏗️ **Led development** of multi-tenant SaaS systems in Laravel + Vue with full CI/CD automation (Bitbucket Pipelines + AWS Elastic Beanstalk).  
+- ⚙️ **Architected modular AI-driven scanning platform** used in production by Patchstack to enhance WordPress plugin security.  
+- 🌍 **Founded _The Dev Realm_**, an online learning ecosystem for game developers — including store, video platform, and subscription model.  
+- 🧩 **Built reusable open-source libraries** (`@mariojgt/masterui`, `Candle Analytics`, `Wind-Notify`) improving DX and component reusability.  
+- 🎮 **Created cross-disciplinary projects** combining Unreal Engine, Laravel APIs, and community platforms (e.g., RPG Rush TCG).
 
 ---
 
-## 📫 Let's Connect
+## 🧰 Technical Stack
+
+**Languages:** PHP • JavaScript • TypeScript • Python • C++  
+**Frameworks:** Laravel • Inertia • Nuxt 3 • Express • Unreal Engine API Integration  
+**Cloud & DevOps:** AWS (EB, S3, Lambda) • Docker • Traefik • Nginx • GitHub Actions • Bitbucket Pipelines  
+**Databases:** MySQL • Redis • Meilisearch  
+**Design & Front-End:** TailwindCSS • DaisyUI • Alpine.js • Figma • UI/UX Systems  
+
+---
+
+## 🌟 Flagship Projects
+
+### 🧩 [**The Dev Realm**](https://thedevrealm.com)
+_E-learning and store platform for game developers_  
+> Laravel + Vue 3 + Tailwind + Vimeo API  
+> Subscription, SEO, and analytics optimized
+
+### ⚔️ [**RPG Rush**](https://rpgrush.com)
+_Fantasy RPG trading card game — physical & digital_  
+> Unreal Engine + Laravel backend + API integrations
+
+### 🧠 **Patchstack Hub (Sysadmin v2)**
+_Security intelligence platform for researchers, vendors, and developers_  
+> AI-driven vulnerability scanning, vendor APIs, and analytics dashboards
+
+---
+
+## 🧩 Beyond Code
+
+I believe leadership is about **creating culture** — fostering autonomy, accountability, and innovation.  
+I mentor developers, design architecture roadmaps, and align engineering vision with business impact.
+
+---
+
+## 📫 Let’s Connect
 
 - 🌐 [thedevrealm.com](https://thedevrealm.com)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/mariojgt)  
 - 🐙 [GitHub](https://github.com/mariojgt)  
 - 🎮 [YouTube: The Dev Realm](https://www.youtube.com/@TheDevRealm)  
+- ✉️ Reach out for collaborations, leadership roles, or guest speaking
 
 ---
 
-⭐ _“Crafting technology with creativity and leadership.”_
+⭐ **“I build teams and technology that last.”**
