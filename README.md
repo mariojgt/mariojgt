@@ -1,84 +1,70 @@
-# 👋 Hi, I'm **Mario Tarosso**
+# 👋 Hey, I’m **Mario Tarosso**
 
-🎯 **Senior Engineering Leader | CTO-Level Full-Stack Architect | Product Innovator**
+🎯 **Lead Software Engineer & Product Engineer** • **Cybersecurity** • **Games**
+📍 England, United Kingdom
 
-I build **scalable platforms**, **high-performing engineering teams**, and **products that people love** — blending technology, creativity, and business strategy.
-
----
-
-## 🧭 Leadership Philosophy
-
-> “Great code scales systems. Great leadership scales people.”
-
-As a hands-on leader, I empower developers to deliver world-class software by combining **technical excellence**, **clear communication**, and **strategic vision**.  
-I thrive at the intersection of **engineering**, **design**, and **business outcomes**.
+I build **secure, scalable SaaS** and lead teams that ship fast without breaking things. I mix systems thinking, product clarity, and a love for clean architecture.
 
 ---
 
-## 🧠 Core Expertise
+## ✨ About Me (short + fun)
 
-| Category | Highlights |
-|-----------|-------------|
-| **Leadership & Strategy** | Engineering Management • Team Building • Technical Direction • Agile / Scrum • Product Alignment |
-| **Architecture & DevOps** | System Design • Scalable APIs • AWS (Elastic Beanstalk, S3, EC2) • Docker • CI/CD • Traefik |
-| **Software Engineering** | Laravel • Vue.js / Nuxt 3 • Node.js / Express • TypeScript • MySQL / Redis / Meilisearch |
-| **Security & Performance** | Patchstack • Cloud Infrastructure Hardening • Code Quality Automation • AI-powered Scanning |
-| **Creative & Product Thinking** | UX-driven Development • Game Systems • Data Visualization • Developer Experience (DX) |
+- I modernize legacy platforms into **cloud‑native, test‑driven systems**.
+- I lead with mentorship and real‑world delivery metrics.
+- I’m the founder of **The Dev Realm**, a learning hub for indie game developers.
+- I work across **cybersecurity**, **SaaS**, and **game tech**.
 
 ---
 
-## 🚀 Selected Achievements
+## 🚀 What I’m Proud Of
 
-- 🏗️ **Led development** of multi-tenant SaaS systems in Laravel + Vue with full CI/CD automation (Bitbucket Pipelines + AWS Elastic Beanstalk).  
-- ⚙️ **Architected modular AI-driven scanning platform** used in production by Patchstack to enhance WordPress plugin security.  
-- 🌍 **Founded _The Dev Realm_**, an online learning ecosystem for game developers — including store, video platform, and subscription model.  
-- 🧩 **Built reusable open-source libraries** (`@mariojgt/masterui`, `Candle Analytics`, `Wind-Notify`) improving DX and component reusability.  
-- 🎮 **Created cross-disciplinary projects** combining Unreal Engine, Laravel APIs, and community platforms (e.g., RPG Rush TCG).
-
----
-
-## 🧰 Technical Stack
-
-**Languages:** PHP • JavaScript • TypeScript • Python • C++  
-**Frameworks:** Laravel • Inertia • Nuxt 3 • Express • Unreal Engine API Integration  
-**Cloud & DevOps:** AWS (EB, S3, Lambda) • Docker • Traefik • Nginx • GitHub Actions • Bitbucket Pipelines  
-**Databases:** MySQL • Redis • Meilisearch  
-**Design & Front-End:** TailwindCSS • DaisyUI • Alpine.js • Figma • UI/UX Systems  
+- Cut delivery time from **6 months → 2 months** during a major platform migration.
+- Grew automated test coverage from **20% → 85%** with a full QA strategy.
+- Built **AI‑assisted security scanning** used in production for vulnerability research.
+- Mentored teams across Europe and Asia while shipping enterprise features.
 
 ---
 
-## 🌟 Flagship Projects
+## 🧩 Featured Projects
 
-### 🧩 [**The Dev Realm**](https://thedevrealm.com)
-_E-learning and store platform for game developers_  
-> Laravel + Vue 3 + Tailwind + Vimeo API  
-> Subscription, SEO, and analytics optimized
+### 🧩 [The Dev Realm](https://thedevrealm.com)
+E‑learning and store platform for game developers.
+**Stack:** Laravel • Vue 3 • Tailwind • Vimeo API
+**Focus:** subscriptions, SEO, analytics, creator tooling
 
-### ⚔️ [**RPG Rush**](https://rpgrush.com)
-_Fantasy RPG trading card game — physical & digital_  
-> Unreal Engine + Laravel backend + API integrations
+### ⚔️ [RPG Rush](https://rpgrush.com)
+Fantasy RPG trading card game — physical & digital.
+**Stack:** Unreal Engine • Laravel • API integrations
 
-### 🧠 **Patchstack Hub (Sysadmin v2)**
-_Security intelligence platform for researchers, vendors, and developers_  
-> AI-driven vulnerability scanning, vendor APIs, and analytics dashboards
-
----
-
-## 🧩 Beyond Code
-
-I believe leadership is about **creating culture** — fostering autonomy, accountability, and innovation.  
-I mentor developers, design architecture roadmaps, and align engineering vision with business impact.
+### 🧠 Patchstack Hub [patchstack](https://patchstack.com)
+Security intelligence platform for researchers and vendors.
+**Focus:** AI‑driven scanning, vendor APIs, analytics dashboards
 
 ---
 
-## 📫 Let’s Connect
+## 🧠 Skills Snapshot
 
-- 🌐 [thedevrealm.com](https://thedevrealm.com)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/mariojgt)  
-- 🐙 [GitHub](https://github.com/mariojgt)  
-- 🎮 [YouTube: The Dev Realm](https://www.youtube.com/@TheDevRealm)  
-- ✉️ Reach out for collaborations, leadership roles, or guest speaking
+**Leadership:** Roadmaps • Hiring & Coaching • OKRs • Agile/Scrum
+**Architecture:** Multi‑tenant SaaS • AWS • CI/CD • Observability
+**Engineering:** Laravel • Node.js • TypeScript • Vue/Nuxt
+**Security:** AppSec • Hardening • Automated scanning
+**Games:** Unreal integration • Live ops • Data systems
 
 ---
 
-⭐ **“I build teams and technology that last.”**
+## 🧰 Tech I Use
+
+**Languages:** PHP • JavaScript • TypeScript • Python • C++ • RUST
+**Frameworks:** Laravel • Inertia • Nuxt 3 • Express • Unreal Engine
+**Cloud/DevOps:** AWS • Docker • Traefik • Nginx • GitHub Actions
+**Databases:** MySQL • Redis • Meilisearch
+
+---
+
+## 📬 Contact
+
+- **LinkedIn:** https://www.linkedin.com/in/mariojgt
+- **GitHub:** https://github.com/mariojgt
+- **YouTube:** https://www.youtube.com/@TheDevRealm
+
+---
