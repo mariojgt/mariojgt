@@ -1,70 +1,59 @@
-# 👋 Hey, I’m **Mario Tarosso**
+# Mario Tarosso
 
-🎯 **Lead Software Engineer & Product Engineer** • **Cybersecurity** • **Games**
-📍 England, United Kingdom
+**Senior Software Engineer** · Distributed Systems & Cloud Infrastructure · AWS · Kubernetes · Observability
 
-I build **secure, scalable SaaS** and lead teams that ship fast without breaking things. I mix systems thinking, product clarity, and a love for clean architecture.
-
----
-
-## ✨ About Me (short + fun)
-
-- I modernize legacy platforms into **cloud‑native, test‑driven systems**.
-- I lead with mentorship and real‑world delivery metrics.
-- I’m the founder of **The Dev Realm**, a learning hub for indie game developers.
-- I work across **cybersecurity**, **SaaS**, and **game tech**.
+📍 England, UK · [LinkedIn](https://www.linkedin.com/in/mariojgt) · [thedevrealm.com](https://thedevrealm.com)
 
 ---
 
-## 🚀 What I’m Proud Of
+## What I Build
 
-- Cut delivery time from **6 months → 2 months** during a major platform migration.
-- Grew automated test coverage from **20% → 85%** with a full QA strategy.
-- Built **AI‑assisted security scanning** used in production for vulnerability research.
-- Mentored teams across Europe and Asia while shipping enterprise features.
+I design and operate **distributed systems and cloud-native infrastructure** for high-availability, security-critical platforms at enterprise scale.
 
----
+Currently Lead Engineer at **Patchstack** — architecting the infrastructure that protects **12,000+ websites** against **13,000+ known vulnerabilities** for enterprise clients including Hostinger and GoDaddy.
 
-## 🧩 Featured Projects
-
-### 🧩 [The Dev Realm](https://thedevrealm.com)
-E‑learning and store platform for game developers.
-**Stack:** Laravel • Vue 3 • Tailwind • Vimeo API
-**Focus:** subscriptions, SEO, analytics, creator tooling
-
-### ⚔️ [RPG Rush](https://rpgrush.com)
-Fantasy RPG trading card game — physical & digital.
-**Stack:** Unreal Engine • Laravel • API integrations
-
-### 🧠 Patchstack Hub [patchstack](https://patchstack.com)
-Security intelligence platform for researchers and vendors.
-**Focus:** AI‑driven scanning, vendor APIs, analytics dashboards
+- 🔧 Architected **MCP server infrastructure** for AI-driven cybersecurity automation pipelines
+- 📉 Reduced delivery cycles from **6 months → 2 months** (67% improvement) via distributed systems modernisation
+- 📊 Designed **Prometheus + Grafana** observability stack at enterprise scale
+- ⚡ Built event-driven architecture with **Kafka** for high-volume security intelligence processing
+- 🎮 Previously built and operated **high-availability AWS gaming backend** at Frontier Developments — latency-sensitive, live production systems with MySQL, DynamoDB, and Redis
 
 ---
 
-## 🧠 Skills Snapshot
+## Core Stack
 
-**Leadership:** Roadmaps • Hiring & Coaching • OKRs • Agile/Scrum
-**Architecture:** Multi‑tenant SaaS • AWS • CI/CD • Observability
-**Engineering:** Laravel • Node.js • TypeScript • Vue/Nuxt
-**Security:** AppSec • Hardening • Automated scanning
-**Games:** Unreal integration • Live ops • Data systems
-
----
-
-## 🧰 Tech I Use
-
-**Languages:** PHP • JavaScript • TypeScript • Python • C++ • RUST
-**Frameworks:** Laravel • Inertia • Nuxt 3 • Express • Unreal Engine
-**Cloud/DevOps:** AWS • Docker • Traefik • Nginx • GitHub Actions
-**Databases:** MySQL • Redis • Meilisearch
+```
+Distributed Systems    AWS (ECS, Lambda, CloudFormation) · Kubernetes · Kafka · Redis
+Observability          Prometheus · Grafana · Distributed Tracing
+Languages              TypeScript · Node.js · Python · PHP · Rust (learning)
+Infrastructure         Docker · GitHub Actions · Serverless · Terraform
+Databases              MySQL · DynamoDB · Redis · Meilisearch
+Architecture           Multi-tenant SaaS · Event-driven · MCP · Microservices · CI/CD
+```
 
 ---
 
-## 📬 Contact
+## Open Source
 
-- **LinkedIn:** https://www.linkedin.com/in/mariojgt
-- **GitHub:** https://github.com/mariojgt
-- **YouTube:** https://www.youtube.com/@TheDevRealm
+| Project | Description | Stars |
+|---|---|---|
+| [skeleton-admin](https://github.com/mariojgt/skeleton-admin) | Multi-auth Laravel scaffolding — Vue 3, Tailwind, Inertia | ⭐ 12 |
+| [onix-pro](https://github.com/mariojgt/onix-pro) | Laravel page builder with zero-config Tailwind support | ⭐ 42 |
+| [castle](https://github.com/mariojgt/castle) | 2-step verification Laravel package with near-zero setup | ⭐ 1 |
+| [biscotto](https://github.com/mariojgt/biscotto) | GDPR cookie policy package for Laravel | ⭐ 2 |
+| [devops-laravel-docker-standalone](https://github.com/mariojgt/devops-laravel-docker-standalone) | Production-ready Docker setup for Laravel | — |
 
 ---
+
+## Founder
+
+**[The Dev Realm](https://thedevrealm.com)** — technical education platform for indie game developers, serving a global community of 10,000+ developers through open-source tooling, tutorials, and courses.
+
+---
+
+## Currently Interested In
+
+- Large-scale distributed systems and inference infrastructure
+- Observability at massive scale
+- AI-driven automation pipelines and MCP architecture
+- High-reliability, low-latency backend systems
