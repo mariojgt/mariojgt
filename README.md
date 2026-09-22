@@ -1,59 +1,61 @@
 # Mario Tarosso
 
-**Senior Software Engineer** · Distributed Systems & Cloud Infrastructure · AWS · Kubernetes · Observability
+**Lead Software Engineer & Technical Architect**
 
-📍 England, UK · [LinkedIn](https://www.linkedin.com/in/mariojgt) · [thedevrealm.com](https://thedevrealm.com)
+Distributed systems · Cloud infrastructure · Developer tools · Game development
 
----
+📍 England, UK · [Portfolio](https://mariojgt.github.io/) · [GitHub](https://github.com/mariojgt) · [LinkedIn](https://www.linkedin.com/in/mariojgt)
 
-## What I Build
+I build and operate distributed systems at **Patchstack**, working across cloud infrastructure, security automation, and observability.
 
-I design and operate **distributed systems and cloud-native infrastructure** for high-availability, security-critical platforms at enterprise scale.
+Outside work, I build tools for other developers: a game engine, a workspace for AI coding agents, and a platform for learning game development.
 
-Currently Lead Engineer at **Patchstack** — architecting the infrastructure that protects **12,000+ websites** against **13,000+ known vulnerabilities** for enterprise clients including Hostinger and GoDaddy.
+## Projects
 
-- 🔧 Architected **MCP server infrastructure** for AI-driven cybersecurity automation pipelines
-- 📉 Reduced delivery cycles from **6 months → 2 months** (67% improvement) via distributed systems modernisation
-- 📊 Designed **Prometheus + Grafana** observability stack at enterprise scale
-- ⚡ Built event-driven architecture with **Kafka** for high-volume security intelligence processing
-- 🎮 Previously built and operated **high-availability AWS gaming backend** at Frontier Developments — latency-sensitive, live production systems with MySQL, DynamoDB, and Redis
+### [Feather Engine](https://feather-engine.com/)
 
----
+An open-source 3D game engine with scene editing, visual scripting, physics, and live collaboration. Built around a local-first workflow, with browser and desktop support.
 
-## Core Stack
+**TypeScript · React · Three.js · Rapier · Tauri**
 
-```
-Distributed Systems    AWS (ECS, Lambda, CloudFormation) · Kubernetes · Kafka · Redis
-Observability          Prometheus · Grafana · Distributed Tracing
-Languages              TypeScript · Node.js · Python · PHP · Rust (learning)
-Infrastructure         Docker · GitHub Actions · Serverless · Terraform
-Databases              MySQL · DynamoDB · Redis · Meilisearch
-Architecture           Multi-tenant SaaS · Event-driven · MCP · Microservices · CI/CD
-```
+### [Feather Terminal](https://www.featherterminal.com/)
 
----
+A desktop workspace for running AI coding agents in parallel. Each task gets an isolated Git worktree, with app previews and code review in the same workspace.
 
-## Open Source
+**AI coding agents · Git worktrees · Local development**
 
-| Project | Description | Stars |
-|---|---|---|
-| [skeleton-admin](https://github.com/mariojgt/skeleton-admin) | Multi-auth Laravel scaffolding — Vue 3, Tailwind, Inertia | ⭐ 12 |
-| [onix-pro](https://github.com/mariojgt/onix-pro) | Laravel page builder with zero-config Tailwind support | ⭐ 42 |
-| [castle](https://github.com/mariojgt/castle) | 2-step verification Laravel package with near-zero setup | ⭐ 1 |
-| [biscotto](https://github.com/mariojgt/biscotto) | GDPR cookie policy package for Laravel | ⭐ 2 |
-| [devops-laravel-docker-standalone](https://github.com/mariojgt/devops-laravel-docker-standalone) | Production-ready Docker setup for Laravel | — |
+### [The Dev Realm](https://thedevrealm.com/)
 
----
+My game development education platform: Unreal Engine courses, tutorials, downloadable resources, and tools for indie developers.
 
-## Founder
+**Unreal Engine · Education · Open source**
 
-**[The Dev Realm](https://thedevrealm.com)** — technical education platform for indie game developers, serving a global community of 10,000+ developers through open-source tooling, tutorials, and courses.
+## Engineering Work
 
----
+At **Patchstack**, I work on security infrastructure supporting **12,000+ websites**. My work includes:
 
-## Currently Interested In
+- Modernising distributed services, reducing delivery cycles from **six months to two**.
+- Architecting **MCP servers** for AI-driven security automation.
+- Designing observability infrastructure with **Prometheus and Grafana**.
+- Building **Kafka-based pipelines** for security intelligence processing.
 
-- Large-scale distributed systems and inference infrastructure
-- Observability at massive scale
-- AI-driven automation pipelines and MCP architecture
-- High-reliability, low-latency backend systems
+Previously, at **Frontier Developments**, I built and maintained AWS backend services for **Planet Zoo**, working with MySQL, DynamoDB, and Redis on live game infrastructure.
+
+## Technical Stack
+
+| Area | Technologies |
+| --- | --- |
+| Backend | TypeScript, Node.js, PHP, Laravel, Python |
+| Frontend | React, Vue, Nuxt |
+| Cloud & delivery | AWS, Docker, Kubernetes, Terraform, GitHub Actions |
+| Data & messaging | MySQL, DynamoDB, Redis, Kafka, Meilisearch |
+| Observability | Prometheus, Grafana, distributed tracing |
+| Games & desktop | Unreal Engine, Three.js, Tauri |
+
+Currently learning **Rust**.
+
+## Interests
+
+I’m particularly interested in how AI agents fit into everyday development, how to make distributed systems easier to debug, and how to keep live services reliable under load.
+
+Game development is where I experiment with those ideas—and usually find another tool I want to build.
